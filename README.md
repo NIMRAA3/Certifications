@@ -8,6 +8,7 @@
 - cisco Network essientials
 - shell scripting project completing certficate on cognitio.io by ibm  
 - python project completion certficate by cognitio.io offered  by ibm
+- cybersecurity projects  completion certficate offered by ibm on cognitio.io 
 - LetsDefend SOC Analyst Path
 - COMPTiA++
 - CSA 
